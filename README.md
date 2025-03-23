@@ -26,7 +26,8 @@ ToxiMeter is a web application that detects toxic content in user-submitted text
 
 ## 🎥 App Demo
 
-> 🔗 _[Demo Link – To be uploaded]_
+> 🔗 https://github.com/user-attachments/assets/fc521ec8-39c4-4c46-90b5-5f65010a7b74
+
 
 The application flow:
 
